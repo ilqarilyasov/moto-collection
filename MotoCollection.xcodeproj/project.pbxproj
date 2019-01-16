@@ -14,6 +14,7 @@
 		82DF86D821EF780B00A9E13A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82DF86D621EF780B00A9E13A /* LaunchScreen.storyboard */; };
 		82DF86E021EF786200A9E13A /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DF86DF21EF786200A9E13A /* Photo.swift */; };
 		82DF86E221EF78B300A9E13A /* PhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DF86E121EF78B300A9E13A /* PhotoController.swift */; };
+		82DF86E421EF7CD000A9E13A /* ThemeHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DF86E321EF7CD000A9E13A /* ThemeHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		82DF86D921EF780B00A9E13A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82DF86DF21EF786200A9E13A /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		82DF86E121EF78B300A9E13A /* PhotoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoController.swift; sourceTree = "<group>"; };
+		82DF86E321EF7CD000A9E13A /* ThemeHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				82DF86DF21EF786200A9E13A /* Photo.swift */,
 				82DF86E121EF78B300A9E13A /* PhotoController.swift */,
+				82DF86E321EF7CD000A9E13A /* ThemeHelper.swift */,
 				82DF86CD21EF780A00A9E13A /* AppDelegate.swift */,
 				82DF86CF21EF780A00A9E13A /* ViewController.swift */,
 				82DF86D121EF780A00A9E13A /* Main.storyboard */,
@@ -144,6 +147,7 @@
 				82DF86E021EF786200A9E13A /* Photo.swift in Sources */,
 				82DF86D021EF780A00A9E13A /* ViewController.swift in Sources */,
 				82DF86E221EF78B300A9E13A /* PhotoController.swift in Sources */,
+				82DF86E421EF7CD000A9E13A /* ThemeHelper.swift in Sources */,
 				82DF86CE21EF780A00A9E13A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
