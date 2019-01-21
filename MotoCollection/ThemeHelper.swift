@@ -12,8 +12,6 @@ class ThemeHelper {
     
     init() {
         if themePreference == nil {
-            setThemePreferenceToLight()
-        } else {
             setThemePreferenceToDark()
         }
     }
@@ -32,5 +30,4 @@ class ThemeHelper {
         let value = UserDefaults.standard.string(forKey: themePreferenceKey)
         return value
     }
-    
 }
